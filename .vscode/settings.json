@@ -1,0 +1,6 @@
+{
+    "idf.espIdfPathWin": "C:\\Users\\Arwa\\esp\\v5.4.1\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\Arwa\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\Arwa\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "C_Cpp.errorSquiggles": "disabled"
+}
